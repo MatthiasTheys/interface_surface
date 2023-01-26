@@ -1,0 +1,15 @@
+C:\Users\theys\source\repos\int_surface\int_surface\bin\Release\int_surface.exe.config
+C:\Users\theys\source\repos\int_surface\int_surface\bin\Release\int_surface.exe
+C:\Users\theys\source\repos\int_surface\int_surface\bin\Release\int_surface.pdb
+C:\Users\theys\source\repos\int_surface\int_surface\obj\Release\int_surface.csproj.AssemblyReference.cache
+C:\Users\theys\source\repos\int_surface\int_surface\obj\Release\int_surface.csproj.SuggestedBindingRedirects.cache
+C:\Users\theys\source\repos\int_surface\int_surface\obj\Release\int_surface.Form1.resources
+C:\Users\theys\source\repos\int_surface\int_surface\obj\Release\int_surface.Form2.resources
+C:\Users\theys\source\repos\int_surface\int_surface\obj\Release\int_surface.Form3.resources
+C:\Users\theys\source\repos\int_surface\int_surface\obj\Release\int_surface.Form4.resources
+C:\Users\theys\source\repos\int_surface\int_surface\obj\Release\int_surface.Form5.resources
+C:\Users\theys\source\repos\int_surface\int_surface\obj\Release\int_surface.Properties.Resources.resources
+C:\Users\theys\source\repos\int_surface\int_surface\obj\Release\int_surface.csproj.GenerateResource.cache
+C:\Users\theys\source\repos\int_surface\int_surface\obj\Release\int_surface.csproj.CoreCompileInputs.cache
+C:\Users\theys\source\repos\int_surface\int_surface\obj\Release\int_surface.exe
+C:\Users\theys\source\repos\int_surface\int_surface\obj\Release\int_surface.pdb
